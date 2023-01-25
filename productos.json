@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "nombre": "Ram DDR4 16GB",
+    "precio": 21390,
+    "url": "https://i.postimg.cc/CLyB0hzy/ram.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Ram DDR4 16GB",
+    "precio": 21390,
+    "url": "https://i.postimg.cc/tR8PgdvM/ram2.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Ram DDR4 16GB",
+    "precio": 20790,
+    "url": "https://i.postimg.cc/tR8PgdvM/ram2.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "Ram DDR4 16GB",
+    "precio": 29430,
+    "url": "https://i.postimg.cc/Jzz1VvcV/ramx2.jpg"
+  },
+  {
+    "id": 5,
+    "nombre": "Ram DDR4 16GB",
+    "precio": 25950,
+    "url": "https://i.postimg.cc/cCPQyw2P/ramx2c1.jpg"
+  },
+  {
+    "id": 6,
+    "nombre": "Ram DDR4 16GB",
+    "precio": 22650,
+    "url": "https://i.postimg.cc/XYSwsKwC/ramx2c2.jpg"
+  },
+  {
+    "id": 7,
+    "nombre": "i5 12400F",
+    "precio": 39150,
+    "url": "https://i.postimg.cc/zBKLb6c2/core-i5.jpg"
+  },
+  {
+    "id": 8,
+    "nombre": "i7 10700F",
+    "precio": 54120,
+    "url": "https://i.postimg.cc/GmD1CR8f/core-i7.jpg"
+  },
+  {
+    "id": 9,
+    "nombre": "i7 12700",
+    "precio": 62250,
+    "url": "https://i.postimg.cc/D0RYjWgw/i7.jpg"
+  },
+  {
+    "id": 10,
+    "nombre": "7 5700X",
+    "precio": 62250,
+    "url": "https://i.postimg.cc/fysvJxBX/r7.jpg"
+  },
+  {
+    "id": 11,
+    "nombre": " 5 7600",
+    "precio": 54300,
+    "url": "https://i.postimg.cc/1tQFHyw1/r5.jpg"
+  },
+  {
+    "id": 12,
+    "nombre": "5 4600G",
+    "precio": 33090,
+    "url": "https://i.postimg.cc/15G3GDMX/r5c.jpg"
+  },
+  {
+    "id": 13,
+    "nombre": "Redragon 850W",
+    "precio": 19600,
+    "url": "https://i.postimg.cc/6Qg8jtZp/32600.jpg"
+  },
+  {
+    "id": 14,
+    "nombre": "Gigabyte 850W",
+    "precio": 20950,
+    "url": "https://i.postimg.cc/02XPdZD8/34900.jpg"
+  },
+  {
+    "id": 15,
+    "nombre": "Strix 850W",
+    "precio": 35610,
+    "url": "https://i.postimg.cc/0NpT3CMK/59350.jpg"
+  },
+  {
+    "id": 16,
+    "nombre": "Thor 1200W",
+    "precio": 67170,
+    "url": "https://i.postimg.cc/xCZBNpB7/111950.jpg"
+  },
+  {
+    "id": 17,
+    "nombre": "Thor 850W",
+    "precio": 41610,
+    "url": "https://i.postimg.cc/jj1ryj7Z/69350.jpg"
+  },
+  {
+    "id": 18,
+    "nombre": "STRIX 850W",
+    "precio": 59250,
+    "url": "https://i.postimg.cc/mZ8yjFDL/white.jpg"
+  },
+  {
+    "id": 19,
+    "nombre": "Galaxy Watch5",
+    "precio": 46170,
+    "url": "https://i.postimg.cc/zfHqtW59/watch5.jpg"
+  },
+  {
+    "id": 20,
+    "nombre": "Silla Gamer",
+    "precio": 38920,
+    "url": "https://i.postimg.cc/R0KjJTvV/silla.jpg"
+  }
+]

@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="shortcut icon" href="/img/logo.png" />
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+    <link rel="stylesheet" href="./style.css">
+    <script src="https://kit.fontawesome.com/7caa7bdcfb.js" crossorigin="anonymous"></script>
+    <title>COMPU GAMER</title>
+</head>
+
+<body>
+    <header class="headerIndex">
+        <nav class="navbar bg-warning">
+            <div class="container-fluid">
+                <a class="navbar-brand text-white fs-2" href="#" id="titulo">
+                    <img src="./img/summer.png" alt="" width="200" height="100">
+                    CompuGamer
+                </a>
+                <div>
+                    <form class="d-flex" role="search">
+                        <input class="form-control me-2" type="text" placeholder="Busca un producto" id="buscador">
+                        <button class="btn btn-info text-white" id="botonBuscar" type="submit">Buscar</button>
+                    </form>
+
+                    <ul class="navbar-right">
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-bs-toggle="dropdown" type="button"
+                                aria-haspopup="true" aria-expanded="false" id="cart">
+                                <i class="fa fa-shopping-cart"></i>Carrito
+                                <span class="badge badge-light">
+                                    <p id="productos"></p>
+                                </span>
+                            </a>
+                            <ul class="dropdown-menu dropdown-cart" role="menu" id="productosCarrito"></ul>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <main class="mainIndex d-flex row">
+        <div class="d-flex row col-12 align-items-center justify-content-center">
+            <h1 class="text-center" id="saludo">¡Bienvenid@</h1>
+            <h3 class="text-center">Productos Disponibles</h3>
+            <nav class="d-flex justify-content-around align-items-center flex-wrap" id="cards"></nav>
+        </div>
+
+
+    </main>
+    <footer class="footerIndex bg-warning text-center text-white">
+        <div class="container p-4">
+            <section class="">
+                <div class="copyright text-center p-1">
+                    © 2023 Copyright: CompuGamer
+                </div>
+            </section>
+    </footer>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+        integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa"
+        crossorigin="anonymous"></script>
+    <script src="./acciones.js"></script>
+</body>
+
+</html>
